@@ -19,6 +19,6 @@ To achieve the output we have used the pre-trained model from Wav2Lip, more spec
 8. Run all the below cells till ***Adding audio to GAN output*** section. Your video will be downloaded!
 
 
-## Solution:
+## Colab:
 The final Google Colab notebook after solving all of the above problems can be found [here](https://colab.research.google.com/drive/11Ik6RS80jY8zlLd7bdtfyv0kGVTB7Rlc?usp=sharing)
 
